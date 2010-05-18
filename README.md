@@ -4,3 +4,7 @@ Supports customizing the available templates, their order in the menu, and the i
 </p>
 
 <p>Supports both Visual Studio 2008 and Visual Studio 2010.</p>
+
+<p>
+See my <a href="http://weblogs.asp.net/infinitiesloop/archive/2010/05/18/vsnewfile-a-visual-studio-addin-to-more-easily-add-new-items-to-a-project.aspx">VSNewFile blog entry</a> for more details.
+</p>
